@@ -154,7 +154,7 @@ button{
         width: 300px;
     }
     .content-2{
-        margin-left: 0px;
+        margin-left: 0;
         text-align: center;
         width: 375px;
         display: flex;
@@ -178,7 +178,7 @@ button{
         width: 300px;
     }
     .content-3{
-        margin-left: 0px;
+        margin-left: 0;
         margin-top: -150px;
         width: 375px;
         display: flex;
@@ -206,7 +206,7 @@ button{
         width: 250px;
     }
     .content-4{
-        margin-left: 0px;
+        margin-left: 0;
         margin-top: -150px;
         width: 375px;
         display: flex;
