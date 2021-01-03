@@ -10,7 +10,7 @@ nav{
     z-index: 1000;
     position: fixed;
     width: 61px;
-    height: 100vh;
+    height: 100%;
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -149,7 +149,7 @@ button{
     }
     .content{
         margin-left: 0px;
-        width: 375px;
+        width: 100%;
     }
     .info > img{
         width: 300px;
@@ -157,7 +157,7 @@ button{
     .content-2{
         margin-left: 0px;
         text-align: center;
-        width: 375px;
+        width: 100%;
         display: flex;
         flex-direction: column;
     }
@@ -181,7 +181,7 @@ button{
     .content-3{
         margin-left: 0px;
         margin-top: -150px;
-        width: 375px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         
@@ -209,7 +209,7 @@ button{
     .content-4{
         margin-left: 0px;
         margin-top: -150px;
-        width: 375px;
+        width: 100%;
         display: flex;
         flex-direction: column;
     }
@@ -239,7 +239,7 @@ button{
     nav> .logo-2 > .two{
         display: none;
     }
-    nav> .logo-2 > .one{
+    nav> .logo-2 > .one-1{
         display: unset;
     }
     
